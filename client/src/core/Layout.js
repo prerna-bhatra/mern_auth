@@ -1,5 +1,6 @@
 import React from 'react'
 import './core.css'
+import './blog.jpeg'
 
 const Layout=({title='Title',description='', img=" " ,className,children})=>{
 	return (
